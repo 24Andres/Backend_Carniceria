@@ -146,3 +146,5 @@
     }
 
     module.exports = AuthController;
+    //esto ya registra un usuario basico.
+    //se puede mejorar para incluir validaciones y manejo de errores.
